@@ -1,0 +1,42 @@
+
+
+header{
+	height:110px;
+	border-bottom:solid blue;
+	background-color:#1ec6ff;
+}
+
+.cabecera{
+	padding-top:30px;
+	text-align:center;
+}
+.titulo1,.titulo2{
+	font-family: 'Comforter', cursive;
+	text-align:center;
+}
+.titulo1{
+	font-size:50px;
+	color:blue;
+}
+.titulo2{
+	font-size:30px;
+}
+	
+p{
+text-align:center;
+}
+
+#pie p {
+	
+	text-align:left;
+}
+
+#pie{ 
+	
+	  font-size:20px;
+	  border-top:solid blue;
+	  height:20px;
+}
+
+
+
